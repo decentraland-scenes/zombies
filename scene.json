@@ -1,6 +1,8 @@
 {
   "display": {
     "title": "zombie-attack",
+	"description": "My new Decentraland project",
+    "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
   "contact": {
@@ -14,16 +16,6 @@
       "0,0","1,0"
     ],
     "base": "0,0"
-  },
-  "communications": {
-    "type": "webrtc",
-    "signalling": "https://signalling-01.decentraland.org"
-  },
-  "policy": {
-    "contentRating": "E",
-    "fly": true,
-    "voiceEnabled": true,
-    "blacklist": []
   },
   "main": "bin/game.js",
   "tags": [],
